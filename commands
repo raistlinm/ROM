@@ -1,2 +1,2 @@
-EXECUTE COMMAND
+EXECUTE COMMANDS
 touch /root/tools/working.txt
